@@ -12,7 +12,7 @@ Basically there are three steps in image processing that I used as follows:
 In binarization I have calculated number of black pixels in segemented area which later compared with threshold value. Threshold value is obtained by researchers by calculating average number of black and white pixels in segemented area.
 There is no metrics performance due to restriction of image label class.
 
-To run the program, you need matlab. You can use one sample image that I uploaded. For another image you can download from http://www.via.cornell.edu/lungdb.html. Image processing based detection of lung cancer on CT scan images
+To run the program, you need matlab and image processing library in your matlab. You can use one sample image that I uploaded. For another image you can download from http://www.via.cornell.edu/lungdb.html. Image processing based detection of lung cancer on CT scan images
 
 References:
 
